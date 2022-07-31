@@ -1,0 +1,28 @@
+{
+    "employees":[
+        {
+            "name":"Rinki",
+            "id":123,
+            "course":"MERN",
+            "duration":3
+        },
+        {
+            "name":"Julee",
+            "id":1342,
+            "course":"REACT",
+            "duration":8
+        },
+        {
+            "name":"Vaibhavi",
+            "id":13421,
+            "course":"Node JS",
+            "duration":4
+        },
+        {
+            "name":"Pooja",
+            "id":12342,
+            "course":"Angular JS",
+            "duration":5
+        }
+    ]
+}
